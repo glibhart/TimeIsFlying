@@ -4,5 +4,28 @@
 <surface xmlns="http://www.tei-c.org/ns/1.0" xmlns:mith="http://mith.umd.edu/sc/ns1#"
     ulx="0" uly="0" lrx="4966" lry="7248" xml:id="ox-ms_shelley_adds_c4-0079">
     <graphic url="http://shelleygodwinarchive.org/images/ox/ms_shelley_adds_c4/ms_shelley_adds_c4-0079.jp2"/>
-    
+    <line><del rend="strikethrough">And thus contented with a lot</del></line>
+    <line><del rend="strikethrough">Which others, who have suffered not,</del></line>
+    <line>And thus although she absent were</line>
+    <line><del rend="strikethrough">Fancy</del><add place="superlinear">Memory</add>gave me<del rend="overwritten">g</del>all<del rend="strikethrough">other</del>of her</line>
+    <line><del rend="strikethrough">I<unclear reason="illegible">dare to</unclear></del></line>
+    <line><del rend="strikethrough"><unclear reason="illegible" extent="1" unit="chars"></unclear><unclear reason="illegible">fate</unclear></del></line>
+    <line><del rend="strikethrough"><unclear reason="illegible" extent="1" unit="chars"></unclear><unclear reason="illegible">to</unclear></del></line>
+    <line>That even fancy dares to claim.-</line>
+    <line><del rend="strikethrough">And I<unclear reason="illegible">will happy</unclear><unclear reason="illegible" extent="1" unit="chars"></unclear></del></line>
+     <line><del rend="strikethrough">Thus I<unclear reason="illegible">were happy</unclear>,if<unclear reason="illegible">this</unclear>name</del></line>
+    <line><del/ rend="strikethrough">Of happiness</del></line>
+    <line><del rend="strikethrough"><unclear reason="illegible">My saddest</unclear>thought</del></line>
+    <line><del rend="strikethrough"><unclear reason="illegible">Her presence</unclear></del></line>
+    <line><del rend="strikethrough">Within her presence</del></line>
+    <line><del rend="strikethrough"><unclear reason="illegible">Th</unclear> of my spirit</del><del rend="strikethrough">lay</del></line>
+    <line>Her presence had made weak and tame</line>
+    <line><del rend="strikethrough"><unclear reason="illegible">Desire</unclear><unclear reason="illegible" extent="1" unit="chars"></unclear>I was</del><add place="superlinear">All passions, and</add><del rend="strikethrough">thought no more</del></line>
+    <line><del rend="strikethrough">Of pleasure lost</del><del rend="strikethrough">or<unclear reason="illegible" extent="1" unit="chars"></unclear></del><add place="superlinear">I lived alone,</add></line>
+    <line>In the time which<del rend="strikethrough">was</del><add place="superlinear">is</add> our own</line>
+    <line>The past and future were forgot</line>
+    <line>As they<del rend="strikethrough">would be I</del><add place="superlinear">had</add>been, and would be, not.-</line>
+    <line><del rend="strikethrough">But now I desired,- I dare not</del></line>
+    <line>But soon, the guardian angel gone</line>
+    <line>The demon reassumed his throne</line>
 </surface>

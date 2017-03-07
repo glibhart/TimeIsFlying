@@ -4,8 +4,6 @@
 <surface xmlns="http://www.tei-c.org/ns/1.0" xmlns:mith="http://mith.umd.edu/sc/ns1#"
     ulx="0" uly="0" lrx="4966" lry="7248" xml:id="ox-ms_shelley_adds_c4-0080">
     <graphic url="http://shelleygodwinarchive.org/images/ox/ms_shelley_adds_c4/ms_shelley_adds_c4-0080.jp2"/>
-    
-</surface>
 <line> In my <del rend="strikethrough">weak</del> <add place="superlinear">faint</add> heart I dare not <unclear>speak</unclear></line>
 <line><del rend="strikethrough">The </del> My thoughts, <unclear>but thus</unclear> disturbed &amp; weak</line>
 <line>I <unclear>sat</unclear> and watched the vessels <unclear><!-- best guess --> glide </unclear></line>
@@ -27,3 +25,4 @@ They <del rend="strikethrough">sailed for somemust <unclear reason="illegible" e
 <line>Think I'm not <unclear reason ="illegible">of for</unclear> wind </line>
   <line><del rend="strikethrough">They</del><add place="superlinear">like bird</add> a thread<unclear reason="illegible" extent="7" unit="chrs"> </unclear> </line>
 <line><del rend="strikethrough">From</del>on the<del rend="strikethrough"><unclear reason="illegible" extent="4" unit="chrs"></unclear><unclear>ferry</unclear></del><anchor xml:id="anchor1" > <add place="sublinear">morning</add></line>
+    </surface>

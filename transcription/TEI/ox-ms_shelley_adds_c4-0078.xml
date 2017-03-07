@@ -12,8 +12,8 @@
     <line> But <unclear reason="illegible">once</unclear> <unclear reason="illegible">within</unclear> its shadow <unclear reason="illegible">grew</unclear></line>
     <line><unclear reason="illegible">one</unclear> <unclear reason="illegible">fair</unclear> as you <unclear reason="illegible">but</unclear> far <unclear reason="illegible">more</unclear> true</line>
     <line> <!-- this line is partly obscured by the previous line--> She left me <unclear reason="illegible">at</unclear> the silent time</line>
-    <line> When the moon <unclear reason="illegible">has</unclear><del rend="strikethrough"><unclear reason="illegible" extent=3 unit="chars"></unclear></del> ceased to climb </line>
+    <line> When the moon <unclear reason="illegible">has</unclear> <unclear reason="illegible" extent=3 unit="chars"><del rend="strikethrough"></del></unclear> ceased to climb </line>
     <line> The azure <del rend="strikethrough">dome</del><add place="superlinear"><del rend="strikethrough"><unclear reason="illegible">path</unclear></del></add> of Heaven's <del rend="strikethrough"><unclear reason="illegible" extent= 4 unit="chars"></unclear></del>, steep </line>
-  
+        <line> And like an <unclear reason="illegible">albatross</unclear> asleep </line>
     </zone>
 </surface>

@@ -24,5 +24,5 @@ They <del rend="strikethrough">sailed for some must <unclear reason="illegible" 
  <line>I am <delSpan spanTo="#anchor1" /> faint on the <unclear reason="illegible">sifted</unclear> sand</line>
 <line>Think I'm not <unclear reason ="illegible">of for</unclear> wind </line>
   <line><del rend="strikethrough">They</del><add place="superlinear">like bird</add> a thread<unclear reason="illegible" extent="7" unit="chrs"> </unclear> </line>
-<line><del rend="strikethrough">From</del>on the<del rend="strikethrough"><unclear reason="illegible" extent="4" unit="chrs"></unclear><unclear>ferry</unclear></del><anchor xml:id="anchor1"> <add place="sublinear">morning</add> </line>
+<line><del rend="strikethrough">From</del>on the<del rend="strikethrough"><unclear reason="illegible" extent="4" unit="chrs"></unclear><unclear>ferry</unclear></del><anchor xml:id="anchor1"/> <add place="sublinear">morning</add> </line>
     </surface>

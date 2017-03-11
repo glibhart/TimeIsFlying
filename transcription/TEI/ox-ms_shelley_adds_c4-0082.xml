@@ -13,7 +13,7 @@
 
 <zone type="column">
 <line rend="indent2">Time is flying</line>
-<line rend="indent2"><mod><del rend="strikethrough"><unclear reason="illegible">Joy</unclear></del><add place="sublinear"><unclear reason="illegible">Occasion</unclear></add ></mod> is dying</line>
+<line rend="indent2"><mod><add place="sublinear"><unclear reason="illegible">Occasion</unclear></add ><del rend="strikethrough"><unclear reason="illegible">Joy</unclear></del></mod> is dying</line>
 <line rend="indent2">Hope is sighing</line>
 <line rend="indent2">For <mod><mod><del rend="strikethrough">she knows</del><add place="superlinear"><del rend="strikethrough"><unclear reason="illegible">seen</unclear></del></add></mod><add place="sublinear">there is</add></mod></line>
 <line rend="indent2">Far more to fear</line>

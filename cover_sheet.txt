@@ -1,1 +1,5 @@
+outline points for cover sheet 
+*Group workflow (individual pages, checking each other's work)
+*Group communication (gmail, commit titles, comments, knowledge sharing)
+
 

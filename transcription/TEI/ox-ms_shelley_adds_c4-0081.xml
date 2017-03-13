@@ -7,10 +7,8 @@
     
 
 
-<zone type="main"><line>And<del rend="strikethrough"> the warmth the day had strewn</del></line>
-<line>*</line>
-
-    <line><del rend="strikethrough">And the breath of night</del></line>
+<zone type="main"><line>And<del rend="strikethrough"> the warmth the day had strewn</del><add place="superlinear"><del rend="strikethrough">lost</del></add></line>
+    <line><del rend="strikethrough">And<add place="superlinear"><del rend="strikethrough">With</del></add> the breath of night</del></line>
 
 <line> And the scent of sleeping flowers </line>
 

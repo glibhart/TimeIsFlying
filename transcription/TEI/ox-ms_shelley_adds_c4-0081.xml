@@ -25,11 +25,12 @@
 <mod><line><del rend="strikethrough">*</del></line>
     <line><del rend="strikethrough">In the dark sky</del></line></mod>
 
-<line> And the fisher * with <mod><del rend="strikethrough">their</del>his</mod>lamp</line>
-<line> In the * *       damp</line>
+<line>And the fisher * with <mod><del rend="strikethrough">their</del>his</mod>lamp</line>
+<line>In the * *       damp</line>
 
-<line> And spear, about the low rocks damp</line>
-<line>Watching to destroy the</line>
+<line>And spear, about the low rocks damp</line>
+
+    <line>Watching to destroy the</line>
 
 <line> Crept, and struck the fish who came  </line>
 

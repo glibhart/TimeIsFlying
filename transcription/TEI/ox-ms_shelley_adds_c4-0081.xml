@@ -7,10 +7,10 @@
     
 
 
-<zone type="main"><line>And<del rend=“strikethrough”>the warmth the day did *</del></line>
-<line><del rend=“strikethrough”>*</del></line>
+<zone type="main"><line>And<del rend="strikethrough">the warmth the day did *</del></line>
+<line>*</line>
 
-    <line><del rend=“strikethrough”>And the *hearth* of night</del></line>
+    <line><del rend="strikethrough">And the *hearth* of night</del></line>
 
 <line> And the scent of sleeping flowers </line>
 
@@ -23,21 +23,21 @@
 
     <line> Was scattered oer the twinkling bay  </line>
 
-<mod><line><del rend=“strikethrough”>*</del></line>
-    <line><del rend=“strikethrough”>In the dark sky</del></line></mod>
+<mod><line><del rend="strikethrough">*</del></line>
+    <line><del rend="strikethrough">In the dark sky</del></line></mod>
 
 <line> And the fisher* with <mod><del rend=“strikethrough”>their</del> his </mod>lamp  </line>
-<line> In <del rend=“strikethrough”>the * *       damp </del></line>
+<line> In <del rend="strikethrough">the * *       damp </del></line>
 
 <line> And spear, about the low rocks damp  </line>
-<line><mod><del rend=“strikethrough”> * * * *</del></mod></line>
+<line><mod><del rend="strikethrough"> * * * *</del></mod></line>
 
 <line> Crept, and struck the fish who came  </line>
 
 <line> To worship the delusive flame </line>
-<line><del rend=“strikethrough”>And things * hearty</del></line>
+<line><del rend="strikethrough">And things * hearty</del></line>
 
-<line> Too happy <mod><del rend=“strikethrough”>with</del> these they <del rend=“strikethrough”>the</del> whose </mod>pleasure sought </line>
+<line> Too happy <mod><del rend="strikethrough">with</del> these they <del rend=“strikethrough”>the</del> whose </mod>pleasure sought </line>
 
 <line>Extinguishes all sense &amp; thought </line>
 
@@ -47,8 +47,8 @@
 <line> <mod>Destroying</mod> life not peace </line>
 <line> Lurking </line> 
 
-<zone rotate="180"><line><del rend=“strikethrough”>The fish was when the room was</del></line>
-    <line><del rend=“strikethrough”>The moon was</del></line>
+<zone rotate="180"><line><del rend="strikethrough">The fish was when the room was</del></line>
+    <line><del rend="strikethrough">The moon was</del></line>
 </zone>
 
 </surface>

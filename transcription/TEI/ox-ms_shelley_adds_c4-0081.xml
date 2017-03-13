@@ -22,8 +22,8 @@
 
     <line><del rend="strikethrough">In<add place="superlinear"><del rend="strikethrough">Which</del></add> the dark sky</del></line>
 
-<line>And the fisher * with <mod><del rend="strikethrough">their</del>his</mod>lamp</line>
-<line>In the * *       damp</line>
+<line>And the fisher * with <mod><del rend="strikethrough">their</del><add place="superlinear">his</add></mod>lamp</line>
+    <line>In<del rend="strikethrough">the <unclear reason="illegible" extent="6" unit="chars">impish</unclear><unclear reason="illegible" extent="6" unit="chars">bushes</unclear>damp</del></line>
 
 <line>And spear, about the low rocks damp</line>
 
@@ -33,7 +33,7 @@
 
 <line> To worship the delusive flame </line>
 <line><del rend="strikethrough">Poor thing it's beauty</del></line>
-    <line> Too happy <del rend="strikethrough">with</del><add place="superlinear"><del rend="strikethrough">these</del><add place="interlinear">they</add></add><del rend="strikethrough">th</del><add place="superlinear">whose</add>pleasure sought</line>
+    <line> Too happy <mod><mod><del rend="strikethrough">with</del><add place="superlinear"><del rend="strikethrough">these</del><add place="interlinear">they</add></add></mod><mod><del rend="strikethrough">th</del><add place="superlinear">whose</add></mod></mod>pleasure sought</line>
 
 <line>Extinguishes all sense &amp; thought </line>
 

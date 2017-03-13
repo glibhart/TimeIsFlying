@@ -20,8 +20,7 @@
 
     <line> Was scattered oer the twinkling bay  </line>
 
-<mod><line><del rend="strikethrough">*</del></line>
-    <line><del rend="strikethrough">In the dark sky</del></line></mod>
+    <line><del rend="strikethrough">In<add place="superlinear"><del rend="strikethrough">Which</del></add> the dark sky</del></line>
 
 <line>And the fisher * with <mod><del rend="strikethrough">their</del>his</mod>lamp</line>
 <line>In the * *       damp</line>

@@ -4,6 +4,7 @@
 <surface xmlns="http://www.tei-c.org/ns/1.0" xmlns:mith="http://mith.umd.edu/sc/ns1#"
     ulx="0" uly="0" lrx="4966" lry="7248" xml:id="ox-ms_shelley_adds_c4-0079">
     <graphic url="http://shelleygodwinarchive.org/images/ox/ms_shelley_adds_c4/ms_shelley_adds_c4-0079.jp2"/>
+    <zone type="main">
     <line><mod><del rend="unmarked">And thus</del><del rend="strikethrough"> contented with a lot</del></mod></line>
     <line><mod><del rend="strikethrough">Which others, who have suffered not,</del></mod></line>
     <line>And thus although she absent were</line>
@@ -13,7 +14,7 @@
     <line><mod><del rend="strikethrough"><unclear reason="illegible" extent="1" unit="chars"></unclear> to</del></mod></line>
     <line>That even fancy dares to claim.-</line>
     <line><mod><mod><del rend="strikethrough">And I <unclear reason="illegible"> will happy</unclear></del></mod><del><unclear reason="illegible" extent="1" unit="chars"></unclear></del></mod></line>
-     <line><mod><del rend="strikethrough">Thus I <unclear reason="illegible"> were happy</unclear>, if <unclear reason="illegible">this</unclear> name</del></mod></line>
+    <line><mod><del rend="strikethrough">Thus I <unclear reason="illegible"> were happy</unclear>, if <unclear reason="illegible">this</unclear> name</del></mod></line>
     <line><mod><del rend="strikethrough">Of happiness</del></mod></line>
     <line><mod><del rend="strikethrough"><unclear reason="illegible">My saddest </unclear>thought</del></mod></line>
     <line><mod><del rend="strikethrough"><unclear reason="illegible">Her presence</unclear></del></mod></line>
@@ -29,4 +30,5 @@
     <line><mod><del rend="strikethrough">But now I desired,- I dare not</del></mod></line>
     <line>But soon, the guardian angel gone</line>
     <line>The demon reassumed his throne</line>
+    </zone>
 </surface>

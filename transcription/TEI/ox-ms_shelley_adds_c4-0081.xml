@@ -7,7 +7,7 @@
     
 
 <zone type="main">
-<line>And<mod><del rend="strikethrough"> the warmth the day had strewn</del><add place="superlinear"><del rend="strikethrough">left</del></add></mod></line>
+    <line><mod><del rend="unmarked">And</del><del rend="strikethrough"> the warmth the day had strewn</del><add place="superlinear"><del rend="strikethrough">left</del></add></mod></line>
     <line><del rend="strikethrough">With</del></line>
     <line><del rend="strikethrough">And the breath of night</del></line>
 

@@ -39,13 +39,13 @@
     <line> Of the regret that pleasure </line>
 
 
-    <line> <mod>Destroying</mod> life <metamark rend="underline">not peace </metamark> </line>
+    <line> <mod><del rend="strikethrough">Destroy</del>ing</mod> life <metamark rend="underline">not peace </metamark> </line>
 <line> Seeking </line> 
     </zone>
     
     <zone rotate="180">
-<line><del rend="strikethrough">The fish was when the room was</del></line>
-    <line><del rend="strikethrough">The moon was</del></line>
+<line><del rend="strikethrough">She left me when the room was</del></line>
+        <line><del rend="strikethrough">The <unclear reason="illegible" extent="4">room</unclear> was</del></line>
     </zone>
 </surface>
 

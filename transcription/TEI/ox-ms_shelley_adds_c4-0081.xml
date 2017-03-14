@@ -6,7 +6,7 @@
     <graphic url="http://shelleygodwinarchive.org/images/ox/ms_shelley_adds_c4/ms_shelley_adds_c4-0081.jp2"/>
     
 
-
+<zone type="main">
 <line>And<del rend="strikethrough"> the warmth the day had strewn</del><add place="superlinear"><del rend="strikethrough">left</del></add></line>
     <line><del rend="strikethrough">With</del></line>
     <line><del rend="strikethrough">And the breath of night</del></line>
@@ -32,7 +32,7 @@
 
 <line> To worship the delusive flame </line>
 <line><del rend="strikethrough">Poor things it's beauty</del></line>
-    <line> Too happy <del rend="strikethrough"> with </del> <add place="interlinear"> they </add><add place="superlinear"><del rend="strikethrough"> these </del><del rend="strikethrough"> th </del><add place="superlinear"> whose </add> pleasure sought</line>
+    <line> Too happy, <mod><del rend="strikethrough"> with </del> <add place="superlinear"><del redn="strikethrough">these</del></add><add place="interlinear">they</add><del rend="strikethrough"> th </del> <add place="superlinear"> whose </add></mod>   pleasure sought  </line>
 
 <line>Extinguishes all sense &amp; thought </line>
 
@@ -41,9 +41,11 @@
 
     <line> <mod>Destroying</mod> life <metamark rend="underline">not peace </metamark> </line>
 <line> Seeking </line> 
-
+    </zone>
+    
+    <zone rotate="180">
 <line><del rend="strikethrough">The fish was when the room was</del></line>
     <line><del rend="strikethrough">The moon was</del></line>
-
+    </zone>
 </surface>
 

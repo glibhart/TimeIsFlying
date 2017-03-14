@@ -7,7 +7,7 @@
     
 
 
-<zone type="main"><line>And<del rend="strikethrough"> the warmth the day had strewn</del><add place="superlinear"><del rend="strikethrough">left</del></add></line>
+<line>And<del rend="strikethrough"> the warmth the day had strewn</del><add place="superlinear"><del rend="strikethrough">left</del></add></line>
     <line><del rend="strikethrough">With</del></line>
     <line><del rend="strikethrough">And the breath of night</del></line>
 
@@ -42,9 +42,8 @@
     <line> <mod>Destroying</mod> life <metamark rend="underline">not peace </metamark> </line>
 <line> Seeking </line> 
 
-<zone rotate="180"><line><del rend="strikethrough">The fish was when the room was</del></line>
+<line><del rend="strikethrough">The fish was when the room was</del></line>
     <line><del rend="strikethrough">The moon was</del></line>
-</zone>
 
 </surface>
 

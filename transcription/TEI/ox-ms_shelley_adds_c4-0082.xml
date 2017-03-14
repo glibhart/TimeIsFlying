@@ -5,7 +5,7 @@
     ulx="0" uly="0" lrx="4966" lry="7248" xml:id="ox-ms_shelley_adds_c4-0082">
     <graphic url="http://shelleygodwinarchive.org/images/ox/ms_shelley_adds_c4/ms_shelley_adds_c4-0082.jp2"/>
 <zone type="main">
-<line><mod><del rend="strikethrough">The days are flying fast away</del></mod></line>
+<line><del rend="strikethrough">The days are flying fast away</del></line>
 <line>Pleasure</line>
 <line rend="indent1">The hours are flying</line>
 <line rend="indent1">And joys are dying</line>
@@ -22,7 +22,8 @@
 <line rend="indent1">In this.</line>
  </zone>
 
-<zone type="column"><line rend="indent5"><mod><mod><del rend="strikethrough">Can</del></mod> I say <add place="superlinear">might</add></mod> that sorrow</line>
+<zone type="column">
+<line rend="indent5"><mod><del rend="strikethrough">Can</del> I say <add place="superlinear">might</add></mod> that sorrow</line>
 <line rend="indent5"><mod><del rend="strikethrough">Could</del><add place="interlinear">Joy’s</add></mod> mask cd borrow</line>
 <line rend="indent5"><mod><del rend="strikethrough">Lest</del><add place="interlinear">If</add></mod> to day like tomorrow</line>
 <line rend="indent5">Wd Remain</line>

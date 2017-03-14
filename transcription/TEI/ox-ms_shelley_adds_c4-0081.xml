@@ -7,8 +7,9 @@
     
 
 
-<zone type="main"><line>And<del rend="strikethrough"> the warmth the day had strewn</del><add place="superlinear"><del rend="strikethrough">lost</del></add></line>
-    <line><del rend="strikethrough">And<add place="superlinear"><del rend="strikethrough">With</del></add> the breath of night</del></line>
+<zone type="main"><line>And<del rend="strikethrough"> the warmth the day had strewn</del><add place="superlinear"><del rend="strikethrough">left</del></add></line>
+    <line><del rend="strikethrough">With</del></line>
+    <line><del rend="strikethrough">And<add place="superlinear"></add> the breath of night</line>
 
 <line> And the scent of sleeping flowers </line>
 
@@ -19,8 +20,8 @@
     <line> Of dew, &amp; the <del rend="strikethrough"> night </del> sweet warmth of day </line>
 
     <line> Was scattered oer the twinkling bay  </line>
-
-    <line><del rend="strikethrough">In<add place="superlinear"><del rend="strikethrough">Which</del></add> the dark sky</del></line>
+        <line><del rend="strikethrough">Which</del></line>
+    <line><del rend="strikethrough">In the dark <unclear reason="illegible" extent="3" unit="chars">joy</unclear></del></line>
 
     <line>And the fisher<unclear reason="illegible" extent="4" unit="chars"><del rend="strikethrough">sher</del></unclear> with <mod><del rend="strikethrough">their</del><add place="superlinear">his</add></mod>lamp</line>
     <line> In <del rend="strikethrough"> the <unclear reason="illegible" extent="6" unit="chars"> impish </unclear> <unclear reason="illegible" extent="6" unit="chars"> bushes </unclear>damp</del></line>

@@ -31,8 +31,8 @@
 <line> Crept, and struck the fish who came  </line>
 
 <line> To worship the delusive flame </line>
-<line><del rend="strikethrough">Poor thing it's beauty</del></line>
-    <line> Too happy <mod><mod><del rend="strikethrough"> with </del><add place="superlinear"><del rend="strikethrough"> these </del> <add place="interlinear"> they </add></add></mod><mod><del rend="strikethrough"> th </del><add place="superlinear"> whose </add></mod></mod> pleasure sought </line>
+<line><del rend="strikethrough">Poor things it's beauty</del></line>
+    <line> Too happy <mod><mod><del rend="strikethrough"> with  <add place="interlinear"> they </add></del><add place="superlinear"><del rend="strikethrough"> these </del><del rend="strikethrough"> th </del><add place="superlinear"> whose </add></mod></mod> pleasure sought </line>
 
 <line>Extinguishes all sense &amp; thought </line>
 

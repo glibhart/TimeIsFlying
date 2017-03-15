@@ -8,7 +8,19 @@
     
 <zone type="main">
     <space dim="vertical" unit="lines" extent="13"/>
-<line rend="indent7">Alas I kiss you Jane</line>
+    <line> </line>
+     <line> </line>
+     <line> </line>
+     <line> </line>
+     <line> </line>
+     <line> </line>
+     <line> </line>
+     <line> </line>
+     <line> </line>
+     <line> </line>
+     <line> </line> 
+     <line> </line>
+<line rend="indent6">Alas I kiss you Jane</line>
     </zone>
 
 </surface>

@@ -7,19 +7,19 @@
     
     
 <zone type="main">
-    <space dim="vertical" unit="lines" extent="13"/>
-    <line> </line>
-     <line> </line>
-     <line> </line>
-     <line> </line>
-     <line> </line>
-     <line> </line>
-     <line> </line>
-     <line> </line>
-     <line> </line>
-     <line> </line>
-     <line> </line> 
-     <line> </line>
+    
+    <line><space dim="horizontal" unit="chars" extent="13"/> </line>
+     <line><space dim="horizontal" unit="chars" extent="13"/> </line>
+     <line> <space dim="horizontal" unit="chars" extent="13"/></line>
+     <line> <space dim="horizontal" unit="chars" extent="13"/></line>
+     <line><space dim="horizontal" unit="chars" extent="13"/> </line>
+     <line><space dim="horizontal" unit="chars" extent="13"/> </line>
+     <line><space dim="horizontal" unit="chars" extent="13"/> </line>
+     <line><space dim="horizontal" unit="chars" extent="13"/> </line>
+     <line><space dim="horizontal" unit="chars" extent="13"/> </line>
+     <line><space dim="horizontal" unit="chars" extent="13"/> </line>
+     <line><space dim="horizontal" unit="chars" extent="13"/> </line> 
+     <line> <space dim="horizontal" unit="chars" extent="13"/></line>
 <line rend="indent6">Alas I kiss you Jane</line>
     </zone>
 

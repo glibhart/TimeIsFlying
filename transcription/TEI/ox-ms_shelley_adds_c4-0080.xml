@@ -22,14 +22,14 @@
 <line><del rend="strikethrough">I saw the dark rocks</del></line>
 <line><del rend="strikethrough">I <unclear>watched</unclear> the dark rocks frown &amp; yawn</del></line>
 <line>And the wind that winged their flight</line>
-<line>From the land <unclear reason="illegible">came</unclear> fresh &amp; light</line>
- <line>So on<delSpan spanTo="#anchor1" /> that on the <unclear reason="illegible">sifted</unclear> sand</line>
-<line>Which divided <unclear reason ="illegible">sea</unclear> &amp; land </line>
-    <line><mod>
+<line rend="indent1">From the land <unclear reason="illegible">came</unclear> fresh &amp; light</line>
+ <line rend="indent2">So on<delSpan spanTo="#anchor1" /> that on the <unclear reason="illegible">sifted</unclear> sand</line>
+<line rend="indent2">Which divided <unclear reason ="illegible">sea</unclear> &amp; land </line>
+    <line rend="indent2"><mod>
         <del rend="strikethrough">Only</del>
         <add place="superlinear">like silver</add> 
         </mod> a thread of moonlight lay </line>
-    <line> <del rend="strikethrough"> Upon </del> on the 
+    <line rend="indent2"> <del rend="strikethrough"> Upon </del> on the 
         <mod>
         <del rend="strikethrough">disentangled spray</del>
         <anchor xml:id="anchor1"/> 

@@ -15,16 +15,24 @@
 <line> For <unclear>ministrations</unclear> strange &amp; far;</line>
 <line>As if to some <unclear>Elysian</unclear> star</line>
 <line>They <mod>
-    <del rend="strikethrough"> must for some <unclear reason="illegible">adore</unclear></del>
+    <del rend="strikethrough"> went for some clear<unclear reason="illegible">as mine</unclear></del>
     <add place="sublinear">Sailed for drink to medicine</add>
     </mod></line>
-<line>Such sweet &amp; bitter pain as mine</line>
-<line><del rend="strikethrough">I saw the dark riches</del></line>
-<line><del rend="strikethrough">I <unclear>watched</unclear> the dark <unclear>riches</unclear><unclear reason="illegible" extent="1" unit="words"> </unclear> &amp; <unclear reason="illegible" extent="1" unit="words"> </unclear></del></line>
+<line>Such sweet &amp; bitter pain as mine.</line>
+<line><del rend="strikethrough">I saw the dark rocks</del></line>
+<line><del rend="strikethrough">I <unclear>watched</unclear> the dark rocks frown &amp; yawn</del></line>
 <line>And the wind that winged their flight</line>
 <line>From the land <unclear reason="illegible">came</unclear> fresh &amp; light</line>
- <line>I am <delSpan spanTo="#anchor1" /> faint on the <unclear reason="illegible">sifted</unclear> sand</line>
-<line>Think I'm not <unclear reason ="illegible">of for</unclear> wind </line>
-  <line><del rend="strikethrough">They</del><add place="superlinear">like bird</add> a thread<unclear reason="illegible" extent="7" unit="chrs"> </unclear> </line>
-<line><del rend="strikethrough">From</del>on the<del rend="strikethrough"><unclear reason="illegible" extent="4" unit="chrs"></unclear><unclear>ferry</unclear></del><anchor xml:id="anchor1"/> <add place="sublinear">morning</add> </line>
+ <line>So on<delSpan spanTo="#anchor1" /> that on the <unclear reason="illegible">sifted</unclear> sand</line>
+<line>Which divided <unclear reason ="illegible">sea</unclear> &amp; land </line>
+    <line><mod>
+        <del rend="strikethrough">Only</del>
+        <add place="superlinear">like silver</add> 
+        </mod> a thread of moonlight lay </line>
+    <line> <del rend="strikethrough"> Upon </del> on the 
+        <mod>
+        <del rend="strikethrough">disentangled spray</del>
+        <anchor xml:id="anchor1"/> 
+        <add place="sublinear">murmuring</add> 
+        </mod></line>
     </surface>
